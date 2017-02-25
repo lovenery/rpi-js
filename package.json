@@ -1,0 +1,16 @@
+{
+  "name": "rpi-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "pi-gpio": "0.0.8",
+    "wiring-pi": "^2.2.1"
+  }
+}
