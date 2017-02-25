@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "keypress": "^0.2.1",
-    "pi-gpio": "0.0.8",
+    "rpio": "^0.9.15",
     "wiring-pi": "^2.2.1"
   }
 }
